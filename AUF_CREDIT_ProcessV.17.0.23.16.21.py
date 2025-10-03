@@ -1,7 +1,4 @@
 """
-Created on Thu Nov  5 16:22:49 2020
-
-@author: rajeev.jadaun
 AUF_CREDIT_ProcessV.17.1.23.16.21.py:20-08-2025[fixing the problem in the varient file-] 
 AUF_CREDIT_ProcessV.17.1.23.16.20.py:24-07-2025[merging the address in label file] 
 AUF_CREDIT_ProcessV.17.1.23.16.19.py:01-07-2025[making label file read only] 
