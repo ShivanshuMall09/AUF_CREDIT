@@ -1,0 +1,21 @@
+# Ignore all files in folder temp/
+temp/
+.idea/
+archived/
+build/
+config/
+config_1/
+dist/
+DNSCache/
+PP_FOLDER/
+RAW-DATA/
+# Ignore all log files
+*.log
+
+# Ignore Python byte‐compiled files
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
