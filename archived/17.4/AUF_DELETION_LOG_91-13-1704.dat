@@ -1,0 +1,41 @@
+
+
+                                                                        SEC-IS   |   02.02
+                                                                        Rev.No.  |   3.0                                                   AUF CREDIT PROJECT(DI)
+                                                                        Date :   |   15-Jul-18
+                                                                 ( ***** DATA DELETION LOG ***** )
+
+|  Data Receiving Date - 08.01.2024  |    Data Server - DPP Server/MX Machine  |     Batch Qty. - 1481   |    Batch No. - AUC-08.01.2024-20559    |    Status -                  |
++-------------+-----------------------------------------------------------------------------+--------------------+---------------+------------------+-------------------+----------------+-----------------+
+| Client Name | File Name                                                                   | File Deletion Date | Dispatch Date | Data Admin. Name | Data Admin. Sign. | IT Person Name | IT Person Sign. |
++-------------+-----------------------------------------------------------------------------+--------------------+---------------+------------------+-------------------+----------------+-----------------+
+| AUF Bank    | AUC_EM_B406977_L501_G1_Lit_Credit_Card__08.01.2024.txtt                     |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B406977_L501_G2_Lit_Credit_Card__08.01.2024.txtt                     |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B406977_L503_G1_IXIGO_AU_Credit_Card__08.01.2024.txtt                |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B406977_L503_G2_IXIGO_AU_Credit_Card__08.01.2024.txtt                |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B406977_L505_G1_ABC_NXT__08.01.2024.txtt                             |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B457036_L401_G1_Zenith__08.01.2024.txtt                              |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B457036_L401_G2_Zenith__08.01.2024.txtt                              |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B457036_L402_G1_Zenith_Plus_Credit_Card__08.01.2024.txtt             |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B457036_L402_G2_Zenith_Plus_Credit_Card__08.01.2024.txtt             |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B465523_L301_G1_Vetta__08.01.2024.txtt                               |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B465523_L301_G2_Vetta__08.01.2024.txtt                               |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B465523_L306_G1_ABC_PRO__08.01.2024.txtt                             |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B466505_L101_G1_Altura_C_Male_08.01.2024.txtt                        |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B466505_L101_G1_Altura__08.01.2024.txtt                              |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B466505_L101_G2_Altura__08.01.2024.txtt                              |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B466505_L102_G1_AlturaPlusBlue__08.01.2024.txtt                      |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B466505_L102_G2_AlturaPlusRuby__08.01.2024.txtt                      |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B483894_L804_G2_New Product__08.01.2024.txtt                         |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B483976_L601_G2_Corporate_Reward_Credit_Card__08.01.2024.txtt        |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B483976_L602_G1_Corporate_Credit_Card__08.01.2024.txtt               |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B483976_L602_G2_Corporate_Credit_Card__08.01.2024.txtt               |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B653023_L911_G1_Rupay_Business_Cashback_Credit_Card__08.01.2024.txtt |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_EM_B653023_L911_G2_Rupay_Business_Cashback_Credit_Card__08.01.2024.txtt |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_PP_B457036_L401_G1_Zenith_EM08.01.2024.txtt                             |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_PP_B457036_L401_G2_Zenith_EM08.01.2024.txtt                             |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_PP_B457036_L402_G1_Zenith_Plus_Credit_Card_EM08.01.2024.txtt            |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_PP_B457036_L402_G2_Zenith_Plus_Credit_Card_EM08.01.2024.txtt            |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_PP_B465523_L301_G1_Vetta_EM08.01.2024.txtt                              |                    |               | Data Team        |                   | IT Team        |                 |
+| AUF Bank    | AUC_PP_B465523_L301_G2_Vetta_EM08.01.2024.txtt                              |                    |               | Data Team        |                   | IT Team        |                 |
++-------------+-----------------------------------------------------------------------------+--------------------+---------------+------------------+-------------------+----------------+-----------------+

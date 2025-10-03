@@ -1,0 +1,3 @@
+Bluedart:1
+Delhivery:2
+Indiapost:3
